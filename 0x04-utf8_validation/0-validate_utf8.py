@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+#!/usr/bin/python3
 """module to determine if a given set is UTF-8"""
 
 
